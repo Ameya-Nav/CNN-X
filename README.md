@@ -1,4 +1,4 @@
-# CNN-X: Explaining Muti-Class Deep Learning Intrusion Detection Systems for Internet of Things
+# CNN-X: Explaining Multi-Class Deep Learning Intrusion Detection Systems for Internet of Things
 
 ## Overview
 
