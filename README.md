@@ -3,6 +3,7 @@
 ## Overview
 
 This repository contains the implementation of a **Explainable AI (XAI) based Long Short-Term Memory (LSTM) model for Intrusion Detection in Internet of Things (IoT)** environments. This research proposes multiple deep learning models trained on diverse intrusion detection datasets and applies SHAP (Shapley Additive Explanations) for explainability. By combining deep learning and XAI, this project aims to enhance the transparency and trustworthiness of Intrusion Detection Systems (IDS) used in IoT networks.
+The paper: https://www.sciencedirect.com/science/article/pii/S0045790625001995?dgcid=coauthor  
 
 ## Key Features
 - **Explainable AI (XAI)**: Use of SHAP for feature importance and model explanation.
